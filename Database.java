@@ -6,8 +6,8 @@ import java.sql.DriverManager;
 public class Database {
 
     private final String JDBC_DRIVER = "oracle.jdbc.driver.OracleDriver";
-    private final String USER = "scott";
-    private final String PASS = "tiger";
+    private final String USER = //secret;
+    private final String PASS = //secret;
     private Connection conn;
     private static Database db;
 
