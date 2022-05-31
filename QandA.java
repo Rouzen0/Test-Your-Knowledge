@@ -5,7 +5,7 @@ package test.your.knowladge;
 
 public abstract class QandA {
     
-    private final int numOfQuestion=4;
+    private final int numOfQuestion=15;
     
     public final void play(){
         for (int i = 0; i < numOfQuestion; i++) {
